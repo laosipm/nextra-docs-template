@@ -1,8 +1,8 @@
 {
   "index": "Introduction",
+  "test_folder": "中文名称",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
-  "介绍": "介绍",
   "about": {
     "title": "About",
     "type": "page"
